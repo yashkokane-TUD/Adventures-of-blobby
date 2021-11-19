@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Dash
+  - Enemy
+  - Breakable floor
+  - MovingPlatform
+  - PotionBlue
+  - PotionRed
+  - PotionGreen
+  - invisHero
+  - Hero_enemy1
+  - Hero_enemy2
+  - StartPos
+  - Main HUD
+  - Bullet
+  - Enemy_Bot
+  - BossStartPos
+  - BossEndPos
+  - AbilityEnemy
+  - SaveManager
+  - PlayerPrefab
+  - GameManager
+  - FireBall
+  - Blobs
+  - DropEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - Platform
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2157982283
+    locked: 0
+  - name: MidGround
+    uniqueID: 3378275555
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ForeGround
+    uniqueID: 282220845
+    locked: 0
+  - name: Characters
+    uniqueID: 702575095
+    locked: 0

@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: 100723bb96c8ef745bb749f3f3d95f1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2724008076969188924
+    second: blobby-s1-SS_0
+  - first:
+      213: -1500891380423953490
+    second: blobby-s1-SS_1
+  - first:
+      213: -7089288285429941990
+    second: blobby-s1-SS_2
+  - first:
+      213: -2634711399404798535
+    second: blobby-s1-SS_3
+  - first:
+      213: 229906059559225836
+    second: blobby-s1-SS_4
+  - first:
+      213: -4210873724050019078
+    second: blobby-s1-SS_5
+  - first:
+      213: -2359119242379605847
+    second: blobby-s1-SS_6
+  - first:
+      213: -3183482945542344799
+    second: blobby-s1-SS_7
+  - first:
+      213: 9160272822474083418
+    second: blobby-s1-SS_8
+  - first:
+      213: 3848940431504604531
+    second: blobby-s1-SS_9
+  - first:
+      213: -7744838938952302830
+    second: blobby-s1-SS_10
+  - first:
+      213: -5809337330437982356
+    second: blobby-s1-SS_11
+  - first:
+      213: -2566474673700737772
+    second: blobby-s1-SS_12
+  - first:
+      213: -7270312558605374982
+    second: blobby-s1-SS_13
+  - first:
+      213: -1749730201769720616
+    second: blobby-s1-SS_14
+  - first:
+      213: 1156813371052245182
+    second: blobby-s1-SS_15
+  - first:
+      213: 1988608902949693509
+    second: blobby-s1-SS_16
+  - first:
+      213: -2552812380527847617
+    second: blobby-s1-SS_17
+  - first:
+      213: -3267488562693552995
+    second: blobby-s1-SS_19
+  - first:
+      213: 4237075274569947671
+    second: blobby-s1-SS_20
+  - first:
+      213: -8358755432380090051
+    second: blobby-s1-SS_21
+  - first:
+      213: -3955809733538008537
+    second: blobby-s1-SS_22
+  - first:
+      213: 5202910574410180424
+    second: blobby-s1-SS_23
+  - first:
+      213: 1661227821238963486
+    second: blobby-s1-SS_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 110
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blobby-s1-SS_0
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 898
+        width: 155
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1e4fe1611623ad0800000000000000
+      internalID: -2724008076969188924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_1
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 897
+        width: 155
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea37267dd33cb2be0800000000000000
+      internalID: -1500891380423953490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_2
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 897
+        width: 155
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a193c947dd9cd9d90800000000000000
+      internalID: -7089288285429941990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_3
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 897
+        width: 155
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdfdc801ff9f6bd0800000000000000
+      internalID: -2634711399404798535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_4
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 898
+        width: 155
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9ccb3d75ac03300800000000000000
+      internalID: 229906059559225836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 759
+        width: 155
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afce8fb78a8ff85c0800000000000000
+      internalID: -4210873724050019078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_6
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 754
+        width: 156
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8cc275c89b24fd0800000000000000
+      internalID: -2359119242379605847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_7
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 756
+        width: 154
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af2f6ab02ff1d3d0800000000000000
+      internalID: -3183482945542344799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_8
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 621
+        width: 158
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c8b3d4993df1f70800000000000000
+      internalID: 9160272822474083418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_9
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 616
+        width: 158
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d787d0eee2a6530800000000000000
+      internalID: 3848940431504604531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_10
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 631
+        width: 161
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f7229d40ec48490800000000000000
+      internalID: -7744838938952302830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_11
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 628
+        width: 167
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67f3d62a76116fa0800000000000000
+      internalID: -5809337330437982356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_12
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 621
+        width: 143
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41de70dc1ec026cd0800000000000000
+      internalID: -2566474673700737772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_13
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 464
+        width: 165
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9e34a6f39aa1b90800000000000000
+      internalID: -7270312558605374982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 468
+        width: 122
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d44eb6e6a5b7b7e0800000000000000
+      internalID: -1749730201769720616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_15
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 483
+        width: 210
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0cdf4c1a3dd0010800000000000000
+      internalID: 1156813371052245182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_16
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 472
+        width: 180
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548ee79d245f89b10800000000000000
+      internalID: 1988608902949693509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_17
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 467
+        width: 164
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f371b605aa6929cd0800000000000000
+      internalID: -2552812380527847617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_19
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 301
+        width: 167
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94cff0d67c87a2d0800000000000000
+      internalID: -3267488562693552995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_20
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 303
+        width: 153
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a1553638d1dca30800000000000000
+      internalID: 4237075274569947671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_21
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 301
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d393e98883cbffb80800000000000000
+      internalID: -8358755432380090051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 114
+        width: 158
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7223f6191042a19c0800000000000000
+      internalID: -3955809733538008537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_23
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 114
+        width: 158
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847a7d9e993743840800000000000000
+      internalID: 5202910574410180424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blobby-s1-SS_24
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 114
+        width: 158
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dc1ffd6eddd0710800000000000000
+      internalID: 1661227821238963486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
